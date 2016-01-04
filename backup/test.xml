@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+    <title>EBS Podcast</title>
+    <link>http://zihado.com/ebs/podcast.xml</link>
+    <description>EBS Podcast</description>
+    <lastBuildDate>Mon 4 Jan 09:09:09 KST 2016</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+<item><title>20160104_TEST.mp3</title>
+<link>http://zihado.com/ebs/20160104_TEST.mp3</link>
+<description>20160104_TEST.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160104_TEST.mp3.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160104_TEST.mp3.mp3</guid>
+<pubDate>Mon Jan 4 21:37:44 KST 2016</pubDate></item>
+</channel>
+</rss>

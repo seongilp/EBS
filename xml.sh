@@ -1,21 +1,18 @@
 #!/bin/bash
 EBS="rtmp://ebsandroid.ebs.co.kr:1935/fmradiofamilypc/familypc1m"
-PODCAST_XML="/home/zihado/workspace/ebs/podcast.xml"
+PODCAST_XML="podcast.xml"
 PROGRAM=$1
 RECORD_MINS=$(($2 * 60))
 REC_DATE=`date +%Y%m%d`
 DATE=`date`
 MP3_FILE_NAME=$REC_DATE"_"$PROGRAM.mp3
-MP3_TEMP=$REC_DATE"_"$PROGRAM_TEMP.mp3
 TEMP_FLV=`mktemp -u`
 echo $TEMP_FLV
-rtmpdump -r $EBS -B $RECORD_MINS -o $TEMP_FLV
-avconv -i $TEMP_FLV -ac 2 -ab 128 -vn -y -f mp3 $MP3_TEMP
-ffmpeg -i $MP3_TEMP -vn -acodec copy $MP3_FILE_NAME
+#rtmpdump -r $EBS -B $RECORD_MINS -o $TEMP_FLV
+#avconv -i $TEMP_FLV -ac 2 -ab 128 -vn -y -f mp3 a.mp3
+#ffmpeg -i a.mp3 -vn -acodec copy $MP3_FILE_NAME
 rm $TEMP_FLV
-rm $MP3_TEMP
-cp $MP3_FILE_NAME /share/music/EBS/
-
+rm a.mp3
 sed -i '$d' $PODCAST_XML
 echo "" >> $PODCAST_XML
 echo "<item><title>"$MP3_FILE_NAME"</title>" >> $PODCAST_XML

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<rss version="2.0">
+<channel>
+    <title>밍크 Podcast</title> 
+    <link>http://smartmink.tistory.com/podcast/podcast.xml</link> 
+    <description>밍크의 Podcast</description> 
+    <lastBuildDate>Tue, 26 Oct 2010 09:15:57 GMT</lastBuildDate> 
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+    <item>
+        <title>밍크 Podcast 2회</title> 
+        <link>http://smartmink.tistory.com/podcast/mypod_002_20101026.mp3</link> 
+        <description>밍크 Podcast 2회</description> 
+        <enclosure url="http://smartmink.tistory.com/podcast/mypod_002_20101026.mp3" length="8462648" type="audio/mpeg" /> 
+        <guid isPermaLink="true">http://smartmink.tistory.com/podcast/mypod_002_20101026.mp3</guid> 
+        <pubDate>Tue, 26 Oct 2010 00:00:00 GMT</pubDate> 
+        </item>
+
+    <item>
+        <title>밍크 Podcast 1회</title> 
+        <link>http://smartmink.tistory.com/podcast/mypod_001_20101025.mp3</link> 
+        <description>밍크 Podcast 1회</description> 
+        <enclosure url="http://smartmink.tistory.com/podcast/mypod_001_20101025.mp3" length="8846264" type="audio/mpeg" /> 
+        <guid isPermaLink="true">http://smartmink.tistory.com/podcast/mypod_001_20101025.mp3</guid> 
+           <pubDate>Mon, 25 Oct 2010 00:00:00 GMT</pubDate>
+    </item>
+
