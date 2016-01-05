@@ -15,14 +15,15 @@ ffmpeg -i $MP3_TEMP -vn -acodec copy $MP3_FILE_NAME
 rm $TEMP_FLV
 rm $MP3_TEMP
 cp $MP3_FILE_NAME /share/music/EBS/
+cp $MP3_FILE_NAME /home/zihado/workspace/ebs/
 
 sed -i '$d' $PODCAST_XML
 echo "" >> $PODCAST_XML
 echo "<item><title>"$MP3_FILE_NAME"</title>" >> $PODCAST_XML
 echo "<link>http://zihado.com/ebs/"$MP3_FILE_NAME"</link>" >> $PODCAST_XML
 echo "<description>"$MP3_FILE_NAME"</description>" >> $PODCAST_XML
-echo "<enclosure url=\"http://zihado.com/ebs/"$MP3_FILE_NAME.mp3\"" length=\"8846264\" type=\"audio/mpeg\" />" >> $PODCAST_XML
-echo "<guid isPermaLink=\"true\">http://zihado.com/ebs/"$MP3_FILE_NAME.mp3"</guid>" >> $PODCAST_XML
+echo "<enclosure url=\"http://zihado.com/ebs/"$MP3_FILE_NAME"\" length=\"8846264\" type=\"audio/mpeg\" />" >> $PODCAST_XML
+echo "<guid isPermaLink=\"true\">http://zihado.com/ebs/"$MP3_FILE_NAME"</guid>" >> $PODCAST_XML
 echo "<pubDate>"$DATE"</pubDate></item>" >> $PODCAST_XML
 echo "" >> $PODCAST_XML
 echo "</channel></rss>" >> $PODCAST_XML
