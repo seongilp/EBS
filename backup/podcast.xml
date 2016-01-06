@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+    <title>EBS Podcast</title>
+    <link>http://zihado.com/ebs/podcast.xml</link>
+    <description>EBS Podcast</description>
+    <lastBuildDate>Mon 4 Jan 09:09:09 KST 2016</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+
+<item><title>20160104_BizEnglish.mp3</title>
+<link>http://zihado.com/ebs/20160104_BizEnglish.mp3</link>
+<description>20160104_BizEnglish.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160104_BizEnglish.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160104_BizEnglish.mp3</guid>
+<pubDate>Mon Jan 4 23:20:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_PocketEnglish.mp3</title>
+<link>http://zihado.com/ebs/20160105_PocketEnglish.mp3</link>
+<description>20160105_PocketEnglish.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160105_PocketEnglish.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160105_PocketEnglish.mp3</guid>
+<pubDate>Tue Jan 5 05:50:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_ToeicKing.mp3</title>
+<link>http://zihado.com/ebs/20160105_ToeicKing.mp3</link>
+<description>20160105_ToeicKing.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160105_ToeicKing.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160105_ToeicKing.mp3</guid>
+<pubDate>Tue Jan 5 06:00:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_EasyWriting.mp3</title>
+<link>http://zihado.com/ebs/20160105_EasyWriting.mp3</link>
+<description>20160105_EasyWriting.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160105_EasyWriting.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160105_EasyWriting.mp3</guid>
+<pubDate>Tue Jan 5 06:20:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_EarEnglish.mp3</title>
+<link>http://zihado.com/ebs/20160105_EarEnglish.mp3</link>
+<description>20160105_EarEnglish.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160105_EarEnglish.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160105_EarEnglish.mp3</guid>
+<pubDate>Tue Jan 5 06:40:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_MouseEnglish.mp3</title>
+<link>http://zihado.com/ebs/20160105_MouseEnglish.mp3</link>
+<description>20160105_MouseEnglish.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160105_MouseEnglish.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160105_MouseEnglish.mp3</guid>
+<pubDate>Tue Jan 5 07:00:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_EasyEnglish.mp3</title>
+<link>http://zihado.com/ebs/20160105_EasyEnglish.mp3</link>
+<description>20160105_EasyEnglish.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160105_EasyEnglish.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160105_EasyEnglish.mp3</guid>
+<pubDate>Tue Jan 5 07:20:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_PowerEnglish.mp3</title>
+<link>http://zihado.com/ebs/20160105_PowerEnglish.mp3</link>
+<description>20160105_PowerEnglish.mp3</description>
+<enclosure url="http://zihado.com/ebs/20160105_PowerEnglish.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://zihado.com/ebs/20160105_PowerEnglish.mp3</guid>
+<pubDate>Tue Jan 5 07:40:01 KST 2016</pubDate></item>
+
+
+<item><title>20160105_TEST.mp3</title>
+<link>http://clien.net20160105_TEST.mp3</link>
+<description>20160105_TEST.mp3</description>
+<enclosure url="http://clien.net20160105_TEST.mp3.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://clien.net20160105_TEST.mp3.mp3</guid>
+<pubDate>Tue Jan 5 20:43:13 KST 2016</pubDate></item>
+
+
+<item><title>20160105_TEST.mp3</title>
+<link>http://clien.net\20160105_TEST.mp3</link>
+<description>20160105_TEST.mp3</description>
+<enclosure url="http://clien.net20160105_TEST.mp3.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://clien.net\20160105_TEST.mp3.mp3</guid>
+<pubDate>Tue Jan 5 20:44:03 KST 2016</pubDate></item>
+
+
+<item><title>20160105_TEST.mp3</title>
+<link>http://clien.net/20160105_TEST.mp3</link>
+<description>20160105_TEST.mp3</description>
+<enclosure url="http://clien.net/20160105_TEST.mp3.mp3" length="8846264" type="audio/mpeg" />
+<guid isPermaLink="true">http://clien.net/20160105_TEST.mp3.mp3</guid>
+<pubDate>Tue Jan 5 20:44:28 KST 2016</pubDate></item>
+
+</channel></rss>

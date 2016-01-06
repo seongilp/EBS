@@ -27,3 +27,6 @@ echo "<guid isPermaLink=\"true\">http://zihado.com/ebs/"$MP3_FILE_NAME"</guid>" 
 echo "<pubDate>"$DATE"</pubDate></item>" >> $PODCAST_XML
 echo "" >> $PODCAST_XML
 echo "</channel></rss>" >> $PODCAST_XML
+
+/home/zihado/workspace/telegram/send.sh Uploaded!
+/home/zihado/workspace/telegram/send_mp3.sh $MP3_FILE_NAME
